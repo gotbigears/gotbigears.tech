@@ -1,2 +1,2 @@
-consulting.gotbigears
-=====================
+gotbigears.tech
+===============
